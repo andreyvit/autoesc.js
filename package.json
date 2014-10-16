@@ -1,0 +1,33 @@
+{
+  "name": "autoesc",
+  "version": "1.0.0",
+  "description": "Error Short Circuiter (ESC) function decorator",
+  "main": "index.js",
+  "dependencies": {
+    "errto": "^0.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:andreyvit/autoesc.js.git"
+  },
+  "keywords": [
+    "error",
+    "async",
+    "ESC",
+    "short-circuit",
+    "short-circuiter",
+    "icedcoffeescript"
+  ],
+  "author": "Andrey Tarantsov <andrey@tarantsov.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreyvit/autoesc.js/issues"
+  },
+  "homepage": "https://github.com/andreyvit/autoesc.js"
+}
