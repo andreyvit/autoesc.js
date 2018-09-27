@@ -1,5 +1,7 @@
 # Error Short Circuiter (ESC) for IcedCoffeeScript's autocb
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/andreyvit/autoesc.js.svg)](https://greenkeeper.io/)
+
 Provides a very concise implementaiton of ESC to be used with IcedCoffeeScript's autocb feature.
 
 Design goals:
